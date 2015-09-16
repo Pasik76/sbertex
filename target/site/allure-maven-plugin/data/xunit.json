@@ -1,0 +1,70 @@
+{
+  "time" : {
+    "start" : 1442428171191,
+    "stop" : 1442428171221,
+    "duration" : 30
+  },
+  "testSuites" : [ {
+    "uid" : "6209b087-5c78-43f9-9a29-dcf65ab23482",
+    "name" : "ReadFileTest",
+    "title" : "Read file test",
+    "time" : {
+      "start" : 1442428171191,
+      "stop" : 1442428171221,
+      "duration" : 30
+    },
+    "statistic" : {
+      "total" : 4,
+      "passed" : 4,
+      "skipped" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "25778ef1-3566-4b5f-8079-fa7007612a68",
+      "name" : "OneStringTest",
+      "title" : "One string test",
+      "time" : {
+        "start" : 1442428171203,
+        "stop" : 1442428171211,
+        "duration" : 8
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "6d0ee64d-782e-4f18-8100-8c7bdfdaee79",
+      "name" : "FourStringTest",
+      "title" : "Four string test",
+      "time" : {
+        "start" : 1442428171214,
+        "stop" : 1442428171215,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "4b53c074-8a81-4a58-840e-5ca0ff0eeef3",
+      "name" : "ThreeStringTest",
+      "title" : "Three string test",
+      "time" : {
+        "start" : 1442428171215,
+        "stop" : 1442428171216,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "e6059f64-315d-4bf1-8467-3c2e19fe3766",
+      "name" : "TwoStringTest",
+      "title" : "Two string test",
+      "time" : {
+        "start" : 1442428171216,
+        "stop" : 1442428171217,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

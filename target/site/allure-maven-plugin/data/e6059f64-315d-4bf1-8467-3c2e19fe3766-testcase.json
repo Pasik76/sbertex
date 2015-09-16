@@ -1,0 +1,28 @@
+{
+  "uid" : "e6059f64-315d-4bf1-8467-3c2e19fe3766",
+  "name" : "TwoStringTest",
+  "title" : "Two string test",
+  "time" : {
+    "start" : 1442428171216,
+    "stop" : 1442428171217,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

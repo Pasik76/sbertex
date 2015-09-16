@@ -1,0 +1,28 @@
+{
+  "uid" : "6d0ee64d-782e-4f18-8100-8c7bdfdaee79",
+  "name" : "FourStringTest",
+  "title" : "Four string test",
+  "time" : {
+    "start" : 1442428171214,
+    "stop" : 1442428171215,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

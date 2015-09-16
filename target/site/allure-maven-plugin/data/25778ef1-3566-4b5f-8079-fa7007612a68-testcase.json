@@ -1,0 +1,28 @@
+{
+  "uid" : "25778ef1-3566-4b5f-8079-fa7007612a68",
+  "name" : "OneStringTest",
+  "title" : "One string test",
+  "time" : {
+    "start" : 1442428171203,
+    "stop" : 1442428171211,
+    "duration" : 8
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

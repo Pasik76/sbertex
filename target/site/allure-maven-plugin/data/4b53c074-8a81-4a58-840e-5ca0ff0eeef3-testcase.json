@@ -1,0 +1,28 @@
+{
+  "uid" : "4b53c074-8a81-4a58-840e-5ca0ff0eeef3",
+  "name" : "ThreeStringTest",
+  "title" : "Three string test",
+  "time" : {
+    "start" : 1442428171215,
+    "stop" : 1442428171216,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}
